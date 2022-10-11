@@ -32,4 +32,4 @@ I'm currently working at [Finfolk Network](https://finfolk.co/), a Financial Edu
 [<img alt="katherinedavenia's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherinedavenia&count_private=true&layout=compact">](#)
 
 ##
-I'd love to collaborate and connect with you! Email me at katherinedavenia24@gmail.com. Don't hesitate to message me 🤝 Cheers!🥂
+I'd love to collaborate and connect with you! Email me at katherinedavenia24@gmail.com.<br>Don't hesitate to message me 🤝 Cheers!🥂
