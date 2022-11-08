@@ -5,6 +5,8 @@
 Welcome to my Github! 👩🏻‍💻 My name is Katherine Davenia, I am a Full Stack Developer. I'm from Tangerang Selatan, Indonesia 🇮🇩! <br>
 I'm currently working at [Finfolk Network](https://finfolk.co/), a Financial Edutainment Media company. Let's connect on Linkedin! [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin].
 
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkatherinedavenia%2Fkatherinedavenia&label=VISITORS&labelColor=%23555555&countColor=%23F0B354" />
+
 ## :wrench: My Stacks
 
 |Language|Framework & Library|Styling Library|Database|ORM & Testing|Hosting|
@@ -23,7 +25,7 @@ I'm currently working at [Finfolk Network](https://finfolk.co/), a Financial Edu
 ---
 
 ## 🪄 GitHub Stats
-  
+
 [<img alt="katherinedavenia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=katherinedavenia&count_private=true&show_icons=true&theme=tokyonight">](#)
   
 
@@ -32,4 +34,5 @@ I'm currently working at [Finfolk Network](https://finfolk.co/), a Financial Edu
 [<img alt="katherinedavenia's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherinedavenia&count_private=true&layout=compact">](#)
 
 ##
-I'd love to collaborate and connect with you! Email me at katherinedavenia24@gmail.com.<br>Don't hesitate to message me 🤝 Cheers!🥂
+I'd love to collaborate and connect with you! Email me at katherinedavenia24@gmail.com.
+<br>Don't hesitate to message me 🤝 Cheers!🥂
