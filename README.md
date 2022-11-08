@@ -5,7 +5,7 @@
 Welcome to my Github! 👩🏻‍💻 My name is Katherine Davenia, I am a Full Stack Developer. I'm from Tangerang Selatan, Indonesia 🇮🇩! <br>
 I'm currently working at [Finfolk Network](https://finfolk.co/), a Financial Edutainment Media company. Let's connect on Linkedin! [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin].
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkatherinedavenia%2Fkatherinedavenia&label=VISITORS&labelColor=%23555555&countColor=%23F0B354" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkatherinedavenia%2Fkatherinedavenia&label=MY%20VISITORS&labelColor=%23555555&countColor=%23F0B354" />
 
 ## :wrench: My Stacks
 
