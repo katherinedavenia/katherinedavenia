@@ -23,6 +23,7 @@ I'm currently working at [LandX](https://landx.id/) and [Finfolk Network](https:
 ||![Hardhat](https://img.shields.io/badge/-Hardhat-%2300f.svg?style=for-the-badge&logo=harhat)||||||||
 ||![Ethers JS](https://img.shields.io/badge/-Ethers.js-%23FFFC00.svg?style=for-the-badge&logo=ethers)||||||||
 ||![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)||||||||
+||![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)||||||||
 ||||||||||
 ---
 
