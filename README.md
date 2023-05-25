@@ -23,8 +23,6 @@ I'm currently working full-time at [ICX](https://icx.id/). Let's connect on Link
 ||![Hardhat](https://img.shields.io/badge/-Hardhat-%2300f.svg?style=for-the-badge&logo=harhat)||||||||
 ||![Ethers JS](https://img.shields.io/badge/-Ethers.js-%23FFFC00.svg?style=for-the-badge&logo=ethers)||||||||
 ||![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)||||||||
-|||||||||||
-||||||||||
 ---
 
 ## 🪄 GitHub Stats
