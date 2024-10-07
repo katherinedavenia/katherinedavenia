@@ -24,12 +24,6 @@ Welcome to my Github! 👩🏻‍💻 My name is Katherine Davenia, I am a Full 
 ||![Ethers JS](https://img.shields.io/badge/-Ethers.js-%23FFFC00.svg?style=for-the-badge&logo=ethers)||||||||
 ||![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)||||||||
 ---
-
-## 🪄 GitHub Stats
-
-[<img alt="katherinedavenia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=katherinedavenia&count_private=true&show_icons=true&theme=tokyonight">](#)
-  
-
 ## 🧩 Most Used Languages
   
 [<img alt="katherinedavenia's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherinedavenia&count_private=true&layout=compact">](#)
