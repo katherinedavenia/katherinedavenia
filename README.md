@@ -29,4 +29,4 @@ Welcome to my Github! 👩🏻‍💻 My name is Katherine Davenia, I am a Full 
 
 ##
 I'd love to collaborate and connect with you! Email me at katherinedavenia24@gmail.com.
-<br>Don't hesitate to message me 🤝 Cheers🥂
+<br>Don't hesitate to message me 🤝 Cheers 🥂
