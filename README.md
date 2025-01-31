@@ -2,7 +2,7 @@
 
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="40" height="35" />
 
-Welcome to my Github! 👩🏻‍💻 My name is Katherine Davenia, I am a Full Stack Web Engineer. I'm from Tangerang Selatan, Indonesia 🇮🇩. Let's connect on Linkedin [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin]
+Welcome to my Github! 👩🏻‍💻 My name is Katherine Davenia, I'm a Full Stack Engineer. Let's connect on Linkedin [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin]
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkatherinedavenia%2Fkatherinedavenia&label=MY%20VISITORS&labelColor=%23555555&countColor=%23F0B354" />
 
