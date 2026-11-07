@@ -29,7 +29,7 @@ Connect with me on Linkedin [<img alt="Linkedin" src="https://img.shields.io/bad
 ---
 ## 🧩 Most Used Languages
   
-[![Katherine's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=vue-dark)
+![Katherine's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=vue-dark)
 
 ##
 I'd love to collaborate and connect with you! Email me at katherinedavenia24@gmail.com.  
