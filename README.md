@@ -29,7 +29,7 @@ Connect with me on Linkedin [<img alt="Linkedin" src="https://img.shields.io/bad
 ---
 ## 🧩 Most Used Languages
   
-[<img alt="katherinedavenia's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherinedavenia&count_private=true&layout=compact">](#)
+[![Katherine's GitHub stats](https://github-stats-extended.vercel.app/api?username=katherinedavenia)](https://github.com/stats-organization/github-stats-extended)
 
 ##
 I'd love to collaborate and connect with you! Email me at katherinedavenia24@gmail.com.  
