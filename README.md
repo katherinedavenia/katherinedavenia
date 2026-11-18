@@ -2,7 +2,7 @@
 
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="40" height="35" />
 
-I'm a Full Stack Software Engineer passionate about improving software quality through clean code, programming best practices, and structured problem solving. Beyond that, I naturally have a good intuitive sense in the art-visual related field, got that pixel-perfect taste!
+I'm a full stack software engineer passionate about improving software quality through clean code, programming best practices, and structured problem solving. I also have a natural eye for visual aesthetics, with a strong appreciation for detail and pixel-perfect design.
 
 Connect with me on Linkedin [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue">][linkedin]
 
